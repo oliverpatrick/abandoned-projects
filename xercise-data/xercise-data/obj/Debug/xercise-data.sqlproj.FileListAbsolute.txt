@@ -1,0 +1,10 @@
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\bin\Debug\xercise-data.dacpac
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\bin\Debug\xercise_data.dll
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\bin\Debug\xercise_data.pdb
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\xercise-data.sqlproj.AssemblyReference.cache
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\Model.xml
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\refactor.xml
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\postdeploy.sql
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\predeploy.sql
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\xercise_data.dll
+C:\Users\Oli\Documents\Code\xercise-data\xercise-data\obj\Debug\xercise_data.pdb

@@ -1,0 +1,30 @@
+// All scss files more be imported into this global file
+
+//
+// Modules
+//
+@import "./components/scss/variables.scss";
+@import './components/scss/style.scss';
+
+//
+// Components
+//
+@import "./layout/Layout.scss";
+@import "./components/Sidebar/Sidebar.scss";
+@import './components/Timer/Timer.scss';
+
+
+* {
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+}
+
+/*
+ * @NOTE: Prepend a `~` to css file paths that are in your node_modules
+ *        See https://github.com/webpack-contrib/sass-loader#imports
+ */

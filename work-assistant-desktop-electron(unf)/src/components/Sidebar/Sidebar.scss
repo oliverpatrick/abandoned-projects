@@ -1,0 +1,10 @@
+@import './Layout/SidebarLayout.scss';
+@import './Menu/MenuItem.scss';
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 14rem;
+    background-color: #0067DD;
+}

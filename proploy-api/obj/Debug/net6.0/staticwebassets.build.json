@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eGSAQDPBcTl4PIjQL24lIKKCUr26nfUqglyNKM9ykk8=",
+  "Source": "proploy-api",
+  "BasePath": "_content/proploy-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

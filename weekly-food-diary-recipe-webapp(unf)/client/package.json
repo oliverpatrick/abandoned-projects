@@ -1,0 +1,46 @@
+{
+  "name": "week-assistance",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "auth0-js": "^9.10.2",
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "history": "^4.9.0",
+    "node-sass": "4.14.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "npm-run-all": "^4.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "serve": "run-p serve:api serve:app",
+    "serve:api": "node tools/mockAPI/index.js",
+    "serve:app": "npm start"
+  },
+  "proxy": "http://localhost:3002",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
